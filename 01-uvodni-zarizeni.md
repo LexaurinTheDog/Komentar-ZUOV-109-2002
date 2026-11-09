@@ -155,6 +155,11 @@ Zařízení i střediska spolupracují s orgány sociálně-právní ochrany dě
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 4180/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A406B9F4CEDA62DC1257F6200419615?openDocument) — 10. 12. 2015, kat. A
+  > „K projednání a rozhodnutí sporu o nahrazení projevu vůle školského zařízení pro výkon ústavní výchovy uzavřít smlouvu o prodlouženém pobytu nezaopatřené osoby podle § 2 odst. 6 zákona č. 109/2002 Sb., ve znění účinném do 31. 10. 2012, není dána pravomoc soudu"
+
 #### Taxativní výčet druhů zařízení (odst. 1)
 
 Zákon zná čtyři druhy zařízení: diagnostický ústav, dětský domov, dětský domov se školou a výchovný ústav. Výčet je uzavřený; jde o druhy školských zařízení ve smyslu § 7 odst. 4 školského zákona, který mezi školské služby řadí i zajišťování ústavní a ochranné výchovy a preventivně výchovné péče. Zařízení pro děti vyžadující okamžitou pomoc podle zákona o sociálně-právní ochraně dětí ani zařízení sociálních služeb mezi „zařízení“ podle ZUOV nepatří.
