@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v kapitolách [01-uvodni-zarizeni.md](01-uvodni-zarizeni.md), [02-stredisko-pracovnici.md](02-stredisko-pracovnici.md), [03-prava-povinnosti-opatreni.md](03-prava-povinnosti-opatreni.md) a [04-uhrada-pece-spolecna-ucinnost.md](04-uhrada-pece-spolecna-ucinnost.md) (místní konsolidace e-Sbírky `SB-2002-00109_2025-10-01`) a výklad v nich obsažený; úvodní přehled podává [00-uvod.md](00-uvod.md). **Repozitář neobsahuje žádnou místní judikaturu k zákonu**, a zásady níže jsou proto dovozeny výhradně z textu zákona, jeho systematiky a výslovně vyjádřeného účelu — nikoli z judikatorních tezí. Žádná spisová značka zde není uvedena; tam, kde by u jiného předpisu stála judikatorní citace, je namístě poctivě uvést, že místní opora dosud chybí.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v kapitolách [01-uvodni-zarizeni.md](01-uvodni-zarizeni.md), [02-stredisko-pracovnici.md](02-stredisko-pracovnici.md), [03-prava-povinnosti-opatreni.md](03-prava-povinnosti-opatreni.md) a [04-uhrada-pece-spolecna-ucinnost.md](04-uhrada-pece-spolecna-ucinnost.md) (místní konsolidace e-Sbírky `SB-2002-00109_2025-10-01`) a výklad v nich obsažený; úvodní přehled podává [00-uvod.md](00-uvod.md). **Místní judikaturu k zákonu tvoří jediná karta** — [NS 33 Cdo 4180/2014](judikatura/NS-33-Cdo-4180-2014.md) k § 2 odst. 6 ve znění účinném do 31. 10. 2012 (citována u § 2 v kapitole 01). Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky a výslovně vyjádřeného účelu; karta je uvedena jen u zásady 2 jako doplňující opora s výhradou rozhodného znění. Jiná spisová značka zde není uvedena; tam, kde by u jiného předpisu stála judikatorní citace, je namístě poctivě uvést, že místní opora chybí.
 
 Každá zásada je doložena doslovnou citací z kapitol s uvedením souboru a ustanovení. Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -46,7 +46,7 @@ Praktickým důsledkem je, že při pochybnostech o rozsahu oprávnění zaříz
 
 ## 2. Zákonnost umístění — soudní titul jako jediný důvod ústavní péče
 
-**Zakotvení:** § 1 odst. 2, § 24 odst. 5, § 39 odst. 2 písm. h)
+**Zakotvení:** § 1 odst. 2, § 24 odst. 5, § 39 odst. 2 písm. h); po zániku titulu § 2 odst. 6, § 24 odst. 3 písm. b) a odst. 4
 
 Zařízení poskytuje náhradní výchovnou péči jen na základě soudního rozhodnutí. Účel zařízení § 1 odst. 2 vymezuje tak, že péči zajišťuje
 
@@ -69,6 +69,18 @@ Nejsilnější pojistkou zásady zákonnosti je oprávnění státního zástupc
 > — [04-uhrada-pece-spolecna-ucinnost.md](04-uhrada-pece-spolecna-ucinnost.md), § 39 odst. 2 písm. h)
 
 Zásada zákonnosti tak působí ve dvou směrech: zařízení nesmí dítě držet bez titulu nebo po jeho zániku a zároveň nesmí titul svévolně rozšiřovat — rozsah zásahů do práv dítěte je dán zákonem a soudním rozhodnutím, nikoli úvahou zařízení.
+
+Po ukončení ústavní nebo ochranné výchovy může péče pokračovat jen na jiném zákonném základě — smlouvou s nezaopatřenou osobou podle § 2 odst. 6, jejíž uzavření je za stanovených podmínek povinností ředitele:
+
+> „Smlouvu o prodlouženém pobytu ředitel uzavře, připravuje-li se nezaopatřená osoba soustavně na budoucí povolání, požádá-li o to a nebude-li překročen povolený počet dětí ve školském rejstříku (odst. 4); jde o povinnost, nikoli o uvážení."
+> — [03-prava-povinnosti-opatreni.md](03-prava-povinnosti-opatreni.md), výklad k § 24 odst. 4
+
+Odmítnutí má formu správního rozhodnutí o zamítnutí žádosti (§ 24 odst. 3 písm. b)), proti němuž směřuje odvolání (§ 36 odst. 2 a 3). Pro znění účinné do 31. 10. 2012 místní karta [NS 33 Cdo 4180/2014](judikatura/NS-33-Cdo-4180-2014.md) vylučuje cestu civilního sporu:
+
+> „K projednání a rozhodnutí sporu o nahrazení projevu vůle školského zařízení pro výkon ústavní výchovy uzavřít smlouvu o prodlouženém pobytu nezaopatřené osoby podle § 2 odst. 6 zákona č. 109/2002 Sb., ve znění účinném do 31. 10. 2012, není dána pravomoc soudu"
+> — [01-uvodni-zarizeni.md](01-uvodni-zarizeni.md), judikatura k § 2
+
+Karta obsahuje jen právní větu a dnešní § 24 odst. 3 písm. b) a odst. 4 (nynější znění od novely č. 333/2012 Sb., účinné od 1. 11. 2012) nevykládá; jejich vztah ke kartě je syntézou komentáře, nikoli judikatorní tezí, a z karty nelze dovozovat vyloučení jakékoli soudní ochrany.
 
 ## 3. Přechodnost ústavní péče a přednost rodinného prostředí
 

@@ -2,7 +2,7 @@
 
 > **Znění k 1. říjnu 2025** (dokument e-Sbírky `SB-2002-00109_2025-10-01`, účinné od 1. 10. 2025 do 31. 12. 2026). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Místní konsolidace pokrývá znění účinné do 31. 12. 2026. Znění účinné od 1. 1. 2027 v lokálních materiálech k dispozici není, a komentář proto jeho obsah netvrdí. Ustanovení § 7 a části druhá a třetí (§ 44 a 45, změny jiných zákonů) v konsolidaci nejsou a nekomentují se. Lokální materiály neobsahují k zákonu žádnou místní judikaturu — komentář proto neuvádí spisové značky soudních rozhodnutí a výklad opírá o text zákona, jeho systematiku, účel a vazby na související předpisy.
+> **Metodická poznámka:** Místní konsolidace pokrývá znění účinné do 31. 12. 2026. Znění účinné od 1. 1. 2027 v lokálních materiálech k dispozici není, a komentář proto jeho obsah netvrdí. Ustanovení § 7 a části druhá a třetí (§ 44 a 45, změny jiných zákonů) v konsolidaci nejsou a nekomentují se. Z místní judikatury je k zákonu k dispozici jediná karta — NS 33 Cdo 4180/2014 ([judikatura/NS-33-Cdo-4180-2014.md](judikatura/NS-33-Cdo-4180-2014.md)), citovaná u § 2 v kapitole 01; jiné spisové značky komentář neuvádí a výklad opírá o text zákona, jeho systematiku, účel a vazby na související předpisy.
 
 ---
 
@@ -86,7 +86,7 @@ Zařízení vedou zákonem vymezenou **povinnou dokumentaci** (§ 34). Kontrolu 
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
-- Výklad vychází z textu zákona, jeho systematiky a účelu a z vazeb na související předpisy. Lokální materiály k zákonu neobsahují judikaturu, a komentář proto **neuvádí žádné spisové značky** ani judikatorní teze; tam, kde je výklad sporný, to výslovně označuje jako výkladovou otázku.
+- Výklad vychází z textu zákona, jeho systematiky a účelu a z vazeb na související předpisy. Z místních zdrojů je k zákonu doplněna **jediná judikaturní karta**: NS 33 Cdo 4180/2014 ze dne 10. 12. 2015 (kat. A), jejíž právní věta vylučuje pravomoc soudu ke sporu o nahrazení projevu vůle zařízení uzavřít smlouvu o prodlouženém pobytu nezaopatřené osoby podle § 2 odst. 6, výslovně ve znění účinném do 31. 10. 2012. Karta je citována u § 2 v kapitole [01-uvodni-zarizeni.md](01-uvodni-zarizeni.md) a odkazem u § 24 v kapitole [03-prava-povinnosti-opatreni.md](03-prava-povinnosti-opatreni.md); na dnešní § 24 odst. 3 písm. b) a odst. 4 (zamítnutí žádosti jako správní rozhodnutí ředitele, odvolání) ji komentář vztahuje jen systematicky a s touto výhradou. Jiné spisové značky ani judikatorní teze komentář neuvádí; tam, kde je výklad sporný, to výslovně označuje jako výkladovou otázku.
 - Zrušená ustanovení (§ 7) a novelizační části (§ 44 a 45) nejsou v konsolidaci obsažena a nekomentují se. Znění účinné od 1. 1. 2027 komentář netvrdí.
 
 ---

@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidace e-Sbírky `SB-2002-00109_2025-10-01`) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidace e-Sbírky `SB-2002-00109_2025-10-01`) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva v repozitáři není; místní judikaturu tvoří jediná karta rozhodnutí ([NS 33 Cdo 4180/2014](judikatura/NS-33-Cdo-4180-2014.md), k § 2 odst. 6 ve znění do 31. 10. 2012). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -138,12 +138,14 @@ Nejzřetelnější omezení doslovného výkladu: „Odst. 1 slouží jako výkl
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní karty rozhodnutí v repozitáři zatím nejsou (**0** karet); v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Místní úvod to výslovně uvádí: „Lokální materiály neobsahují k zákonu žádnou místní judikaturu — komentář proto neuvádí spisové značky soudních rozhodnutí a výklad opírá o text zákona, jeho systematiku, účel a vazby na související předpisy.“ ([00-uvod.md](00-uvod.md))
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Složka `judikatura/` bude doplněna strojově později; jde o evidovanou mezeru.
+Složka `judikatura/` obsahuje **1** kartu rozhodnutí: [NS 33 Cdo 4180/2014](judikatura/NS-33-Cdo-4180-2014.md) ze dne 10. 12. 2015 (kat. A). Je citována u [§ 2](01-uvodni-zarizeni.md) a odkazem u [§ 24](03-prava-povinnosti-opatreni.md); soubor zásad na ni odkazuje u zásady 2 (zákonnost umístění; péče po zániku titulu). Právní věta zní: „K projednání a rozhodnutí sporu o nahrazení projevu vůle školského zařízení pro výkon ústavní výchovy uzavřít smlouvu o prodlouženém pobytu nezaopatřené osoby podle § 2 odst. 6 zákona č. 109/2002 Sb., ve znění účinném do 31. 10. 2012, není dána pravomoc soudu“ ([§ 2 — judikatura](01-uvodni-zarizeni.md)).
+- **Co plyne:** odmítnutí zařízení uzavřít smlouvu o prodlouženém pobytu nelze pro znění do 31. 10. 2012 řešit civilním sporem o nahrazení projevu vůle; karta míří přímo na § 2 odst. 6.
+- **Hranice:** karta obsahuje jen právní větu, odůvodnění a skutkový rámec místně nejsou; kapitola 01 uvádí, že „Z jakých důvodů soud pravomoc vyloučil a kterému orgánu věc podle něj náleží, z právní věty nevyplývá.“ Dnešní § 24 odst. 3 písm. b) (zamítnutí žádosti jako rozhodnutí ředitele v oblasti státní správy) a odst. 4 dostaly nynější znění novelou č. 333/2012 Sb. účinnou od 1. 11. 2012; že se proti odmítnutí brání odvoláním, nikoli civilní žalobou, je proto pro dnešní znění syntézou komentáře, nikoli obsahem karty. Možnost přezkumu ve správním soudnictví komentář na místních podkladech neposuzuje.
+K ostatním ustanovením ZUOV místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se tam nesmí domýšlet a jde o evidovanou mezeru.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (druh zařízení, kategorie dítěte). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby chybějící místní judikaturu označujte jako mezeru, nikoli jako důkaz neexistence rozhodovací praxe.
+**Jak ji řešit.** U karty NS 33 Cdo 4180/2014 držte závěr v mezích právní věty a rozhodného znění; nečiňte z ní tezi o vyloučení jakékoli soudní ochrany ani o dnešním znění § 24. U každé další karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (druh zařízení, kategorie dítěte). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; chybějící místní judikaturu k ostatním otázkám označujte jako mezeru, nikoli jako důkaz, že soudní rozhodnutí neexistují.
 
-**Místní opora.** [místní zásady](ZASADY.md); [Poznámka k metodě](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [karta NS 33 Cdo 4180/2014](judikatura/NS-33-Cdo-4180-2014.md); [§ 2](01-uvodni-zarizeni.md); [§ 24](03-prava-povinnosti-opatreni.md); [místní zásady](ZASADY.md); [Poznámka k metodě](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -159,7 +161,7 @@ Systematické vazby shrnuje úvod ([Vazby na jiné předpisy](00-uvod.md)): obč
 
 **Odpověď pro tento komentář.**
 Všech 45 komentovaných ustanovení obsahuje oddíl G. Protiargumenty a rizika. Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
-- [§ 2 a § 24 odst. 4 — nárok nezaopatřené osoby na smlouvu o prodlouženém pobytu](03-prava-povinnosti-opatreni.md): místní výklad k § 24 odst. 4 uvádí, že „jde o povinnost, nikoli o uvážení“, a kazuistika k § 2 je s ním sladěna: „Při splnění těchto podmínek jde o povinnost ředitele, nikoli o volné uvážení“; sporné zůstává hodnocení znaku soustavné přípravy a kapacity
+- [§ 2 a § 24 odst. 4 — nárok nezaopatřené osoby na smlouvu o prodlouženém pobytu](03-prava-povinnosti-opatreni.md): místní výklad k § 24 odst. 4 uvádí, že „jde o povinnost, nikoli o uvážení“, a kazuistika k § 2 je s ním sladěna: „Při splnění těchto podmínek jde o povinnost ředitele, nikoli o volné uvážení“; sporné zůstává hodnocení znaku soustavné přípravy a kapacity; k námitce civilní žaloby na nahrazení projevu vůle viz karta [NS 33 Cdo 4180/2014](judikatura/NS-33-Cdo-4180-2014.md) a její hranice (otázka 9)
 - [§ 5 — forma umístění a přemístění dítěte s ochrannou výchovou](01-uvodni-zarizeni.md)
 - [§ 16 — internátní limit 8 týdnů a soudní zařazení](02-stredisko-pracovnici.md)
 - [§ 21 — snížení kapesného a neosvědčení ve zkušební době](03-prava-povinnosti-opatreni.md)
@@ -169,7 +171,7 @@ Všech 45 komentovaných ustanovení obsahuje oddíl G. Protiargumenty a rizika.
 - [§ 36 odst. 2 a § 36a — nadřízený orgán u zařízení podle § 2 odst. 4, předběžná opatření podle jiných předpisů](04-uhrada-pece-spolecna-ucinnost.md)
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument zatím chybí a je třeba to uvést. U zásahů do práv dítěte zohledněte restriktivní pravidlo § 1 odst. 1. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument je k dispozici jen u § 2 odst. 6 (s výhradou znění do 31. 10. 2012), jinde chybí a je třeba to uvést. U zásahů do práv dítěte zohledněte restriktivní pravidlo § 1 odst. 1. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [místní kapitoly](01-uvodni-zarizeni.md); [§ 16](02-stredisko-pracovnici.md); [§ 21–24](03-prava-povinnosti-opatreni.md); [§ 27–36a](04-uhrada-pece-spolecna-ucinnost.md); [místní zásady](ZASADY.md)
 
@@ -187,14 +189,14 @@ Vzorová subsumpce k § 21: „Zákaz návštěv nesmí přesáhnout 30 dnů v o
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **4** kapitoly s úvodem (45 komentovaných ustanovení) a **0** karet rozhodnutí, doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **4** kapitoly s úvodem (45 komentovaných ustanovení) a **1** karta rozhodnutí (NS 33 Cdo 4180/2014 k § 2 odst. 6), doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neposkytuje citovatelnou tezi; složka `judikatura/` bude doplněna strojově,
+- místní judikatura je omezena na 1 kartu k § 2 odst. 6 ve znění do 31. 10. 2012; k dnešnímu § 24 odst. 3 písm. b) a odst. 4 ani k ostatním ustanovením citovatelná judikatorní teze místně není,
 - místní důvodová zpráva není k dispozici,
 - znění účinné od 1. 1. 2027 není místně k dispozici,
 - prováděcí předpisy (zejména nařízení vlády č. 460/2013 Sb.) jsou místně jen v původním znění,
 - konkrétní ústavní a mezinárodní prameny, na které odkazuje § 1 odst. 1, nejsou v kapitolách rozvedeny.
-Aktualizaci musí spustit zejména nová konsolidace ZUOV (nejpozději k 1. 1. 2027), změna prováděcích předpisů podle § 41 nebo zákona o dávce státní sociální pomoci, doplnění nebo nahrazení místní karty rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
+Aktualizaci musí spustit zejména nová konsolidace ZUOV (nejpozději k 1. 1. 2027), změna prováděcích předpisů podle § 41 nebo zákona o dávce státní sociální pomoci, doplnění dalších místních karet rozhodnutí nebo nahrazení stávající, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 

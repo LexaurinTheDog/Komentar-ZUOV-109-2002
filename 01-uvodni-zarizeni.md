@@ -160,6 +160,10 @@ Zařízení i střediska spolupracují s orgány sociálně-právní ochrany dě
 - *NS* [33 Cdo 4180/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A406B9F4CEDA62DC1257F6200419615?openDocument) — 10. 12. 2015, kat. A
   > „K projednání a rozhodnutí sporu o nahrazení projevu vůle školského zařízení pro výkon ústavní výchovy uzavřít smlouvu o prodlouženém pobytu nezaopatřené osoby podle § 2 odst. 6 zákona č. 109/2002 Sb., ve znění účinném do 31. 10. 2012, není dána pravomoc soudu"
 
+**K místní judikaturní kartě NS 33 Cdo 4180/2014:** Místní karta ([judikatura/NS-33-Cdo-4180-2014.md](judikatura/NS-33-Cdo-4180-2014.md)) obsahuje jen právní větu; odůvodnění rozhodnutí ani jeho skutkový a procesní rámec místně k dispozici nejsou, a komentář proto z karty dovozuje jen to, co plyne z právní věty samé. Karta míří přímo na § 2 odst. 6: jde o spor, v němž se nezaopatřená osoba domáhá, aby soud nahradil projev vůle zařízení uzavřít smlouvu o prodlouženém pobytu, a právní věta k projednání a rozhodnutí takového sporu pravomoc soudu vylučuje. Odmítnutí zařízení smlouvu uzavřít tedy podle karty nelze řešit v civilním řízení jako nárok na nahrazení projevu vůle. Z jakých důvodů soud pravomoc vyloučil a kterému orgánu věc podle něj náleží, z právní věty nevyplývá.
+
+Hranice závěru jsou dvě. Za prvé se právní věta výslovně vztahuje ke znění účinnému do 31. 10. 2012. Místně dostupná novela č. 333/2012 Sb. (účinná od 1. 11. 2012) do § 2 odst. 6 vložila slova „na základě žádosti“ a slova „a to za podmínek sjednaných ve smlouvě mezi nezaopatřenou osobou a zařízením“ nahradila požadavkem smlouvy uzavřené nejpozději do 1 roku od ukončení výchovy (bod 5); bodem 36 stanovila nové znění § 24 odst. 3 včetně písm. b) o zamítnutí žádosti o poskytování plného přímého zaopatření podle § 2 odst. 6 a body 37 a 38 přečíslovala dosavadní § 24 odst. 5 na odst. 4 a doplnila do něj podmínku nepřekročení povoleného počtu dětí ve školském rejstříku. Jak zněl § 24 odst. 3 před touto novelou, místní zdroje neobsahují. Za druhé karta sama dnešní znění neposuzuje. Podle něj ředitel smlouvu za podmínek § 24 odst. 4 uzavře a zamítnutí žádosti je jeho rozhodnutím v oblasti státní správy (§ 24 odst. 3 písm. b)); proti němu směřuje odvolání k nadřízenému správnímu orgánu (§ 36 odst. 2), které nemá odkladný účinek (§ 36 odst. 3). Že ani podle dnešního znění nelze nahrazení projevu vůle žalovat v civilním řízení, je úvahou komentáře opřenou o tuto správní konstrukci, nikoli obsahem karty. Zda a za jakých podmínek lze rozhodnutí o odvolání napadnout ve správním soudnictví, komentář na místních podkladech neposuzuje (soudní řád správní v místních materiálech není); kartu nelze číst tak, že by vylučovala jakoukoli soudní ochranu.
+
 #### Taxativní výčet druhů zařízení (odst. 1)
 
 Zákon zná čtyři druhy zařízení: diagnostický ústav, dětský domov, dětský domov se školou a výchovný ústav. Výčet je uzavřený; jde o druhy školských zařízení ve smyslu § 7 odst. 4 školského zákona, který mezi školské služby řadí i zajišťování ústavní a ochranné výchovy a preventivně výchovné péče. Zařízení pro děti vyžadující okamžitou pomoc podle zákona o sociálně-právní ochraně dětí ani zařízení sociálních služeb mezi „zařízení“ podle ZUOV nepatří.
@@ -176,7 +180,7 @@ Právo volby lékaře, jiného odborného pracovníka nebo poskytovatele zdravot
 
 #### Nezaopatřená osoba (odst. 6)
 
-Po ukončení ústavní nebo ochranné výchovy lze na žádost poskytovat plné přímé zaopatření zletilé nezaopatřené osobě připravující se na budoucí povolání, nejdéle do 26 let, a to na základě smlouvy uzavřené nejpozději do 1 roku od ukončení výchovy. Text poznámky č. 4 se v místním znění nevyskytuje; věková hranice 26 let odpovídá pojmu nezaopatřeného dítěte v § 11 zákona o státní sociální podpoře. Jde o smluvní, nikoli zákonný nárok; roční lhůta je lhůtou pro uzavření smlouvy.
+Po ukončení ústavní nebo ochranné výchovy lze na žádost poskytovat plné přímé zaopatření zletilé nezaopatřené osobě připravující se na budoucí povolání, nejdéle do 26 let, a to na základě smlouvy uzavřené nejpozději do 1 roku od ukončení výchovy. Text poznámky č. 4 se v místním znění nevyskytuje; věková hranice 26 let odpovídá pojmu nezaopatřeného dítěte v § 11 zákona o státní sociální podpoře. Zaopatření se poskytuje na smluvním základě; povinnost ředitele smlouvu za stanovených podmínek uzavřít a forma zamítnutí žádosti však plynou z § 24 odst. 4 a odst. 3 písm. b) (kapitola [03-prava-povinnosti-opatreni.md](03-prava-povinnosti-opatreni.md)). Obrana proti odmítnutí se proto podle dnešního znění vede ve správním řízení, nikoli civilní žalobou na nahrazení projevu vůle (k tomu výše citovaná karta NS 33 Cdo 4180/2014 a poznámka k ní). Roční lhůta je lhůtou pro uzavření smlouvy.
 
 #### Plné přímé zaopatření a další úhrady (odst. 7–9)
 
@@ -199,13 +203,14 @@ Odst. 10 zavádí pětistupňovou škálu specifických výchovných a vzděláv
 
 **4. Subsumpce.** Jde o zletilou osobu po ukončení ústavní výchovy, která se připravuje na budoucí povolání a je mladší 26 let. Žádost je podána a smlouvu lze uzavřít, neboť od ukončení ústavní výchovy neuplynul 1 rok. Sporným znakem je, zda jde o osobu „nezaopatřenou“ — rozhoduje soustavná příprava na povolání.
 
-**5. Řešení.** Zákon zařízení umožňuje („může“) zaopatření poskytnout na základě smlouvy; tvrzení, že zletilým se péče neposkytuje, je nesprávné. Dikci „může“ v § 2 odst. 6 je třeba číst spolu s § 24 odst. 4: ředitel smlouvu „uzavře“, připravuje-li se osoba soustavně na budoucí povolání, požádá-li o to a nebude-li překročen povolený počet dětí ve školském rejstříku. Při splnění těchto podmínek jde o povinnost ředitele, nikoli o volné uvážení; zamítnutí žádosti je rozhodnutím v oblasti státní správy (§ 24 odst. 3 písm. b)) — viz kapitola 03. Smlouva musí být uzavřena — nejen žádost podána — do 1 roku od ukončení výchovy.
+**5. Řešení.** Zákon zařízení umožňuje („může“) zaopatření poskytnout na základě smlouvy; tvrzení, že zletilým se péče neposkytuje, je nesprávné. Dikci „může“ v § 2 odst. 6 je třeba číst spolu s § 24 odst. 4: ředitel smlouvu „uzavře“, připravuje-li se osoba soustavně na budoucí povolání, požádá-li o to a nebude-li překročen povolený počet dětí ve školském rejstříku. Při splnění těchto podmínek jde o povinnost ředitele, nikoli o volné uvážení; zamítnutí žádosti je rozhodnutím v oblasti státní správy (§ 24 odst. 3 písm. b)) — viz kapitola 03. Zamítne-li ředitel žádost, brání se mladý muž odvoláním (§ 36 odst. 2 a 3), nikoli civilní žalobou na nahrazení projevu vůle zařízení; pro znění do 31. 10. 2012 vylučuje pravomoc soudu v takovém sporu místní karta NS 33 Cdo 4180/2014. Smlouva musí být uzavřena — nejen žádost podána — do 1 roku od ukončení výchovy.
 
 **6. Varianty.** (a) Žádost přijde 14 měsíců po ukončení výchovy — lhůta uplynula a smlouvu podle odst. 6 uzavřít nelze. (b) Osoba studium přeruší — odpadá znak přípravy na budoucí povolání a smlouva by měla upravit její ukončení.
 
 #### G. Protiargumenty a rizika
 
 - *„Odst. 6 dává zařízení volné uvážení.“* Protiargument: § 24 odst. 4 stanoví, že ředitel smlouvu „uzavře“, jsou-li splněny tam uvedené podmínky (soustavná příprava na povolání, žádost, kapacita podle školského rejstříku); „může“ v odst. 6 vymezuje rámec služby, nikoli diskreci. Sporné zůstává jen hodnocení znaku soustavné přípravy a kapacity.
+- *„Odmítnutí smlouvy lze napadnout žalobou na nahrazení projevu vůle.“* Protiargument: místní karta [NS 33 Cdo 4180/2014](judikatura/NS-33-Cdo-4180-2014.md) pravomoc soudu v takovém sporu vylučuje, ovšem výslovně pro znění účinné do 31. 10. 2012. Pro dnešní znění vede k odvolání proti rozhodnutí podle § 24 odst. 3 písm. b) správní konstrukce zákona; přenesení závěru karty na ni je úvahou komentáře.
 - *Zastaralé poznámky:* odkaz na § 76a občanského soudního řádu (poznámka č. 2) a chybějící text poznámky č. 4 — vycházet z platných předpisů.
 - *Riziko u odst. 7 písm. d):* zdravotní služby vyžádané zákonnými zástupci zařízení nehradí; je nutné dokumentovat, kdo službu vyžádal.
 - *Odst. 12:* hranice mezi umístěním do zařízení a do zařízení sociálních služeb není kvantifikována a závisí na odborném posouzení.
@@ -218,10 +223,11 @@ Odst. 10 zavádí pětistupňovou škálu specifických výchovných a vzděláv
 - [ ] Jde o jeden ze čtyř druhů zařízení podle odst. 1?
 - [ ] Jaký je titul péče (odst. 2, 3) a nejde o dítě-cizince podle odst. 4?
 - [ ] U zletilé osoby: smlouva uzavřena do 1 roku od ukončení výchovy, věk do 26 let, příprava na povolání?
+- [ ] Při odmítnutí smlouvy: bylo vydáno rozhodnutí podle § 24 odst. 3 písm. b) a podáno odvolání (§ 36 odst. 2 a 3), místo civilní žaloby na nahrazení projevu vůle (k hranicím karty NS 33 Cdo 4180/2014 viz výše)?
 - [ ] Rozlišit obligatorní zaopatření (odst. 7) a fakultativní úhrady (odst. 9).
 - [ ] Je posouzení podle odst. 10 provedeno nejméně jednou za kalendářní rok?
 
-**Typicky rozhodné důkazy / podklady:** rozhodnutí soudu, smlouva s nezaopatřenou osobou, potvrzení o studiu, záznamy o posouzení podle odst. 10, vyjádření registrujícího lékaře, vnitřní řád.
+**Typicky rozhodné důkazy / podklady:** rozhodnutí soudu, smlouva s nezaopatřenou osobou nebo rozhodnutí o zamítnutí žádosti podle § 24 odst. 3 písm. b), potvrzení o studiu, záznamy o posouzení podle odst. 10, vyjádření registrujícího lékaře, vnitřní řád.
 
 ### § 3
 
